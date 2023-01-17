@@ -1,0 +1,21 @@
+﻿<Window x:Class="UT6_2_Aplicaciones_con_más_de_una_vista.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UT6_2_Aplicaciones_con_más_de_una_vista"
+        mc:Ignorable="d"
+        Title="Personas" Height="450" Width="800" Icon="/Recursos/personas.ico">
+    <DockPanel Margin="10">
+        <StackPanel Margin="0,0,0,10" DockPanel.Dock="Top" Orientation="Horizontal">
+            <Button Margin="0,5" x:Name="btnNuevaPersona" Width="120" Height="20" Command="{Binding Path=NuevaPersonaCommand}">Nueva Persona</Button>
+            <Button Margin="5" x:Name="btnListadoPersonas" Width="120" Height="20" Command="{Binding Path=ListaPersonasCommand}">Listado de personas</Button>
+            <Button Margin="5" x:Name="btnConsultaPersona" Width="120" Height="20" Command="{Binding Path=ConsultaPersonaCommand}">ConsultaPersona</Button>
+        </StackPanel>
+        <Border BorderBrush="Black" BorderThickness="2">
+            <ContentControl Content="{Binding Path=ContenidoVista}">
+                
+            </ContentControl>
+        </Border>
+    </DockPanel>
+</Window>

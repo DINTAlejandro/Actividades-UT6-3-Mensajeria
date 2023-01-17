@@ -1,0 +1,48 @@
+C:\Users\alumn\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\UT6-2-Aplicaciones con más de una vista.csproj.AssemblyReference.cache
+C:\Users\alumn\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\Controles\ListadoPersonas.g.cs
+C:\Users\alumn\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\Controles\NuevaPersona.g.cs
+C:\Users\alumn\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\MainWindow.g.cs
+C:\Users\alumn\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\Ventanas\VentanaAddNacionalidad.g.cs
+C:\Users\alumn\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\App.g.cs
+C:\Users\alumn\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\UT6-2-Aplicaciones con más de una vista_MarkupCompile.cache
+C:\Users\alumn\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\UT6-2-Aplicaciones con más de una vista_MarkupCompile.lref
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\UT6-2-Aplicaciones con más de una vista.exe.config
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\UT6-2-Aplicaciones con más de una vista.exe
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\UT6-2-Aplicaciones con más de una vista.pdb
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\CommunityToolkit.Mvvm.dll
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\System.Buffers.dll
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\System.Memory.dll
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\CommunityToolkit.Mvvm.pdb
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\CommunityToolkit.Mvvm.xml
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\System.Buffers.xml
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\System.Memory.xml
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\UT6-2-Aplicaciones con más de una vista.csproj.AssemblyReference.cache
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\Controles\ListadoPersonas.g.cs
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\Controles\NuevaPersona.g.cs
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\MainWindow.g.cs
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\Ventanas\VentanaAddNacionalidad.g.cs
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\App.g.cs
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\UT6-2-Aplicaciones con más de una vista_MarkupCompile.cache
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\UT6-2-Aplicaciones con más de una vista_MarkupCompile.lref
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\Controles\ListadoPersonas.baml
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\Controles\NuevaPersona.baml
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\MainWindow.baml
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\Ventanas\VentanaAddNacionalidad.baml
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\UT6-2-Aplicaciones con más de una vista.g.resources
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\UT6_2_Aplicaciones_con_más_de_una_vista.Properties.Resources.resources
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\UT6-2-Aplicaciones con más de una vista.csproj.GenerateResource.cache
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\UT6-2-Aplicaciones con más de una vista.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\UT6-2-Aplicaciones con más de una vista.csproj.CopyComplete
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\UT6-2-Aplicaciones con más de una vista.exe
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\UT6-2-Aplicaciones con más de una vista.pdb
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\Controles\ConsultaPersona.g.cs
+C:\Users\alumno\source\repos\UT6-2-Aplicaciones con más de una vista\obj\Debug\Controles\ConsultaPersona.baml
